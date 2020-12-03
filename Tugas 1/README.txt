@@ -11,9 +11,9 @@ Version : 03/12/20
 	   $ git clone
 	2. Compile The Code
 	   Go to directory where the file is stored in cmd/terminal and run the following command :
-	   $ javac FindTheBomb.java
+	   $ javac Main.java
 	3. Run The Program
-	   $ java FindTheBomb
+	   $ java Main
 
 # Penjelasan Program
 
