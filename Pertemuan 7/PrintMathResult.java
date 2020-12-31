@@ -8,3 +8,12 @@ public class PrintMathResult {
 		System.out.println("Result is " + result);
 	}
 }
+
+/* Hasil output dari program diatas adalah karena yang pertama adalah penggunaan
+Math.sqrt atau untuk mencari akar, maka program akan menghasilkan
+nilai dari akar 121 yaitu 11. Dan selanjutnya contoh dari Math.min dan Mat.abs,
+karena nilai terkecilnya adalah 3, maka hasilnya adalah 53. Output nya seperti ini
+
+Square root: 11.0
+Result is 53.0
+*/

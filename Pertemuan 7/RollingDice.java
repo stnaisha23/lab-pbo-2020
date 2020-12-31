@@ -18,3 +18,17 @@ public class RollingDice {
 		System.out.println("You won after " + tries + " tries!");
 	}
 }
+
+/*
+Kode diatas masih dengan contoh Random.
+Hasil program dari kode diatas adalah :
+
+2 + 1 = 3
+2 + 3 = 5
+2 + 1 = 3
+5 + 4 = 9
+3 + 5 = 8
+1 + 6 = 7
+You won after 6 tries!
+
+*/
