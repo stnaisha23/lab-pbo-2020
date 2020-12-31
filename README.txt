@@ -1,2 +1,2 @@
-Siti Nur Aisha
-1908107010004
+Nama : Siti Nur Aisha
+NIM  : 1908107010004
