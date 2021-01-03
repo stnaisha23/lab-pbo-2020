@@ -43,6 +43,6 @@ public class Main {
 /*
 Berikut contoh program diatas adalah penggunaan HashMap, untuk menyimpan HasMap diperlukan objek yang bersifat key atau unik dan nilai.
 HashMap tidak memiliki urutan. Dari kode diatas dapat kita lihat bahwa objek yang bersifat key atau unik terdapat pada id dan juga ada
-nilai pada atribut lainnya.
+nilai pada atribut lainnya. Hasil output nya akan mencetak semua nilai dari atributnya
 
 */
