@@ -14,3 +14,13 @@ public class TestMultipleCatchBlock{
 		System.out.println("rest of the code...");
 	}
 }
+
+/*
+Program diatas merupakan contoh dari penggunaan Exception dan
+blok try-catch. Kode diatas terdapat exception lebih tepatnya 
+ArithmeticException pada pembagian 30/0. Karena hal tersebut 
+terjadi karena ArithmeticException maka program akan mecetal 
+pada catch pertama. Sehingga output program nya adalah :
+task1 is completed
+rest of the code...
+*/
